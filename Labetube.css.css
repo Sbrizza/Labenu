@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color:  rgba(101, 4, 165, 0.733);
+}
+
+.header {
+    width: 0;
+    padding: 0;
+    background-attachment: fixed;
+    background-color: black;
+}
+
+.h2{
+    width: auto;
+    padding: 0%;
+    background: 
+}
+
+.container {
+    display:flex;
+    background: rgba(101, 4, 165, 0.733);
+    
+}
+
+.controls {
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    flex-wrap:wrap;
+    background: rgba(0,0,0, 0.7);
+}
+
+
+.c-video {
+    width: 100%;
+    padding: 30px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 50px;
+
+}
+
+
+
+
+ 
+
